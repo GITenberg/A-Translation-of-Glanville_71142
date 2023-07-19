@@ -1,0 +1,38 @@
+_repo: A-Translation-of-Glanville_71142
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Beale, Joseph Henry
+    gutenberg_agent_id: '56092'
+    url: http://www.gutenberg.org/2009/agents/56092
+  translator:
+    agent_name: Beames, John
+    birthdate: 1837
+    deathdate: 1902
+    gutenberg_agent_id: '2207'
+    url: http://www.gutenberg.org/2009/agents/2207
+    wikipedia: https://en.wikipedia.org/wiki/John_Beames
+creator:
+  author:
+    agent_name: Glanville, Ranulph de
+    gutenberg_agent_id: '56091'
+    url: http://www.gutenberg.org/2009/agents/56091
+description: ''
+gutenberg_issued: '2023-07-07'
+identifiers:
+  gutenberg: '71142'
+language: en
+pgterms:marc905: 20191029155731deglanvill
+pgterms:marc906: '1900'
+pgterms:marc907: US
+production_note: Linda Cantoni and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aUnited States :$bJohn Byrne & Co., $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Translation of Glanville
+url: http://www.gutenberg.org/ebooks/71142
