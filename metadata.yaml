@@ -12,12 +12,17 @@ contributor:
     gutenberg_agent_id: '2207'
     url: http://www.gutenberg.org/2009/agents/2207
     wikipedia: https://en.wikipedia.org/wiki/John_Beames
+covers:
+- cover_type: archival
+  image_path: 71142-h/images/cover.jpg
 creator:
   author:
     agent_name: Glanville, Ranulph de
     gutenberg_agent_id: '56091'
     url: http://www.gutenberg.org/2009/agents/56091
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71142#A-Translation-of-Glanville
 gutenberg_issued: '2023-07-07'
 identifiers:
   gutenberg: '71142'
